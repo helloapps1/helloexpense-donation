@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Hello Expense Donation</string>
+  <string name="thank_you">Thank you for your donation.
+    \n\nIf you have any question or need assistance, please email
+      helloapps1+donation@gmail.com.
+    \n\nAlan L.
+    \n@Mountain View, California
+  </string>
+  <string name="exit">Exit</string>
+  <string name="download">Download Hello Expense</string>
+</resources>
